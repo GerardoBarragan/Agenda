@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selecgrupo" value="name:idgrupo;datatype:int,name:Grupo desc;datatype:string" />
+	<infoitem key="UD_seleccategoria" value="name:idgrupo;datatype:int,name:Grupo desc;datatype:string" />
+	<infoitem key="UD_getgrupo" value="name:idgrupo;datatype:int,name:Grupo desc;datatype:string" />
+</info>
